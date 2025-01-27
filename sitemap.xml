@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://anishblogs.netlify.app/</loc>
     <lastmod>2025-01-05T22:55:27+11:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/understanding-http-and-https/</loc>
+    <loc>https://anishblogs.netlify.app/posts/understanding-http-and-https/</loc>
     <lastmod>2025-01-05T22:55:27+11:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://anishblogs.netlify.app/posts/</loc>
     <lastmod>2025-01-05T22:55:27+11:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/email/</loc>
+    <loc>https://anishblogs.netlify.app/posts/email/</loc>
     <lastmod>2024-12-02T12:47:47+11:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/bootprocedure/</loc>
+    <loc>https://anishblogs.netlify.app/posts/bootprocedure/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/what-exactly-is-a-digital-certificate/</loc>
+    <loc>https://anishblogs.netlify.app/posts/what-exactly-is-a-digital-certificate/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/whats-the-use-of-ssh/</loc>
+    <loc>https://anishblogs.netlify.app/posts/whats-the-use-of-ssh/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://anishblogs.netlify.app/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://anishblogs.netlify.app/tags/</loc>
   </url>
 </urlset>
